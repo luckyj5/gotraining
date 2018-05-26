@@ -1,0 +1,2 @@
+# gotraining
+Learning go programming! 
